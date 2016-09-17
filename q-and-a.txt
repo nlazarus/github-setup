@@ -2,26 +2,28 @@ Please answer the following questions:
 
 1. What is your full name?
 
-
+Nikhil Lazarus
 
 2. What is the username for your GitHub account?
 
-
+nlazarus
 
 3. Where is your hometown?
 
-
+Pune, India
 
 4. What is your favorite local restaurant?
 
-
+Chipotle
 
 5. Name the last good book you read (title, author?).
 
-
+Kite Runner, Khaled Hussani
 
 6. Which album/artist is in heavy rotation on your iPod/iPhone/MP3 player/stream?
 
-
+Kanye West
 
 7. If you were to build a web site for fun, what would it be about?
+
+Soccer
